@@ -1,0 +1,20 @@
+{
+    "name": "tiaras/php-router",
+    "description": "Router",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tiaras\\Attributes\\": "Attributes/",
+            "Tiaras\\Services\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zidaan16",
+            "email": "ahmadzidan1316@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
