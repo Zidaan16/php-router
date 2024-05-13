@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Tiaras\\Attributes\\": "Attributes/",
+            "Tiaras\\Router\\Attributes\\": "Attributes/",
             "Tiaras\\Services\\": "src/"
         }
     },

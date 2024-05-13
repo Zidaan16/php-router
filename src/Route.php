@@ -1,7 +1,7 @@
 <?php
 namespace Tiaras\Services;
-use Tiaras\Attributes\AbstractRouter;
-use Tiaras\Attributes\Dispatcher;
+use Tiaras\Router\Attributes\AbstractRouter;
+use Tiaras\Router\Attributes\Dispatcher;
 
 class Route extends AbstractRouter {
 
